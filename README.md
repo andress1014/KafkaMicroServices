@@ -36,8 +36,3 @@ kafka-console-producer --topic mi_topic --bootstrap-server localhost:9092
 ```bash
 kafka-console-consumer --topic mi_topic --bootstrap-server localhost:9092
 ```
-
-<p align="center">
-  <img src="https://banner2.cleanpng.com/20180821/zwc/kisspng-node-js-javascript-express-js-portable-network-gra-mixin-software-5b7c72478c6ba0.9607634315348823755752.jpg" alt="Logo de Node.js" width="200" />
-  <img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" alt="Logo de Kafka" width="200" />
-</p>
